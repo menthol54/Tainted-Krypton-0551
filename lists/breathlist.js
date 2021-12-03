@@ -1,0 +1,1 @@
+const breaths = ['Water Breathing', 'Flame Breathing', 'Insect Breathing', 'Flower Breathing', 'Wind Breathing', 'Rock Breathing', 'Thunder Breathing', 'Sound Breathing', 'Beast Breathing', 'Love Breathing', 'Mist Breathing', 'Serpent Breathing']

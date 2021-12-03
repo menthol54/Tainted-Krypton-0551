@@ -1,0 +1,30 @@
+{
+  "name": "nsdb",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^8 || ^10"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "discord-rpc": "^3.2.0",
+    "discord-tictactoe": "^2.1.0",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "discord.js-collector": "^1.8.9",
+    "discord.js-tictactoe": "^1.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}

@@ -1,0 +1,1 @@
+dsRanks = ['Mizunoto', 'Mizunoe', 'Kanoto', 'Kanoe', 'Tsuchinoto', 'Tsuchinoe', 'Hinoto', 'Hinoe', 'Kinoto', 'Kinoe']
